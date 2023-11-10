@@ -7,7 +7,7 @@ Um projeto ministrado pela Alura com a finalidade de fazer uma revisão dos prin
 | :sparkles: Nome        | **Cinetag Alura**
 | :label: Tecnologias | react.js, react-router-dom, context API, myJsonServer
 | :rocket: URL         | 
-| :fire: Desafio     | 
+| :fire: Desafio     |  Reconhecer e aplicar os primeiros conceitos de React.JS
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![image](https://github.com/NicholasAntonio/cinetag-alura/assets/132156803/737b1576-0fbb-4027-804b-81d43343829d)
